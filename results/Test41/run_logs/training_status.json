@@ -1,0 +1,56 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 499995,
+                "file_path": "results\\Test41\\MoveToGoal\\MoveToGoal-499995.onnx",
+                "reward": 4780.0,
+                "creation_time": 1692866608.1956117,
+                "auxillary_file_paths": [
+                    "results\\Test41\\MoveToGoal\\MoveToGoal-499995.pt"
+                ]
+            },
+            {
+                "steps": 999974,
+                "file_path": "results\\Test41\\MoveToGoal\\MoveToGoal-999974.onnx",
+                "reward": -9.0,
+                "creation_time": 1692866955.1605473,
+                "auxillary_file_paths": [
+                    "results\\Test41\\MoveToGoal\\MoveToGoal-999974.pt"
+                ]
+            },
+            {
+                "steps": 1499977,
+                "file_path": "results\\Test41\\MoveToGoal\\MoveToGoal-1499977.onnx",
+                "reward": 113.0,
+                "creation_time": 1692867310.0708556,
+                "auxillary_file_paths": [
+                    "results\\Test41\\MoveToGoal\\MoveToGoal-1499977.pt"
+                ]
+            },
+            {
+                "steps": 1746377,
+                "file_path": "results\\Test41\\MoveToGoal\\MoveToGoal-1746377.onnx",
+                "reward": null,
+                "creation_time": 1692867500.0260375,
+                "auxillary_file_paths": [
+                    "results\\Test41\\MoveToGoal\\MoveToGoal-1746377.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1746377,
+            "file_path": "results\\Test41\\MoveToGoal.onnx",
+            "reward": null,
+            "creation_time": 1692867500.0260375,
+            "auxillary_file_paths": [
+                "results\\Test41\\MoveToGoal\\MoveToGoal-1746377.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 499991,
+                "file_path": "results\\Test8\\MoveToGoal\\MoveToGoal-499991.onnx",
+                "reward": -20.36127167630058,
+                "creation_time": 1692795997.4189084,
+                "auxillary_file_paths": [
+                    "results\\Test8\\MoveToGoal\\MoveToGoal-499991.pt"
+                ]
+            },
+            {
+                "steps": 999994,
+                "file_path": "results\\Test8\\MoveToGoal\\MoveToGoal-999994.onnx",
+                "reward": -20.550660792951543,
+                "creation_time": 1692796324.9332404,
+                "auxillary_file_paths": [
+                    "results\\Test8\\MoveToGoal\\MoveToGoal-999994.pt"
+                ]
+            },
+            {
+                "steps": 1499994,
+                "file_path": "results\\Test8\\MoveToGoal\\MoveToGoal-1499994.onnx",
+                "reward": -20.998876404494382,
+                "creation_time": 1692796745.7871125,
+                "auxillary_file_paths": [
+                    "results\\Test8\\MoveToGoal\\MoveToGoal-1499994.pt"
+                ]
+            },
+            {
+                "steps": 1574419,
+                "file_path": "results\\Test8\\MoveToGoal\\MoveToGoal-1574419.onnx",
+                "reward": null,
+                "creation_time": 1692796815.5986547,
+                "auxillary_file_paths": [
+                    "results\\Test8\\MoveToGoal\\MoveToGoal-1574419.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1574419,
+            "file_path": "results\\Test8\\MoveToGoal.onnx",
+            "reward": null,
+            "creation_time": 1692796815.5986547,
+            "auxillary_file_paths": [
+                "results\\Test8\\MoveToGoal\\MoveToGoal-1574419.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}

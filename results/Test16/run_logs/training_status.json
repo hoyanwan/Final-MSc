@@ -1,0 +1,65 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 999999,
+                "file_path": "results\\Test16\\MoveToGoal\\MoveToGoal-999999.onnx",
+                "reward": -8.26271186440678,
+                "creation_time": 1692803458.358267,
+                "auxillary_file_paths": [
+                    "results\\Test16\\MoveToGoal\\MoveToGoal-999999.pt"
+                ]
+            },
+            {
+                "steps": 1499991,
+                "file_path": "results\\Test16\\MoveToGoal\\MoveToGoal-1499991.onnx",
+                "reward": -10.216426193118757,
+                "creation_time": 1692803895.7966685,
+                "auxillary_file_paths": [
+                    "results\\Test16\\MoveToGoal\\MoveToGoal-1499991.pt"
+                ]
+            },
+            {
+                "steps": 1999998,
+                "file_path": "results\\Test16\\MoveToGoal\\MoveToGoal-1999998.onnx",
+                "reward": -10.53125,
+                "creation_time": 1692804397.9420872,
+                "auxillary_file_paths": [
+                    "results\\Test16\\MoveToGoal\\MoveToGoal-1999998.pt"
+                ]
+            },
+            {
+                "steps": 2499984,
+                "file_path": "results\\Test16\\MoveToGoal\\MoveToGoal-2499984.onnx",
+                "reward": -10.588235294117647,
+                "creation_time": 1692804957.3358667,
+                "auxillary_file_paths": [
+                    "results\\Test16\\MoveToGoal\\MoveToGoal-2499984.pt"
+                ]
+            },
+            {
+                "steps": 2968422,
+                "file_path": "results\\Test16\\MoveToGoal\\MoveToGoal-2968422.onnx",
+                "reward": null,
+                "creation_time": 1692805528.0122309,
+                "auxillary_file_paths": [
+                    "results\\Test16\\MoveToGoal\\MoveToGoal-2968422.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2968422,
+            "file_path": "results\\Test16\\MoveToGoal.onnx",
+            "reward": null,
+            "creation_time": 1692805528.0122309,
+            "auxillary_file_paths": [
+                "results\\Test16\\MoveToGoal\\MoveToGoal-2968422.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}
